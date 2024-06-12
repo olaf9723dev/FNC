@@ -1,0 +1,29 @@
+{
+  "name": "FNC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.9.2"
+  },
+  "dependencies": {
+    "2captcha-ts": "^2.2.2",
+    "csvtojson": "^2.0.10",
+    "cypress": "^13.6.3",
+    "expect": "^29.7.0",
+    "expect.js": "^0.3.1",
+    "isnumeric": "^0.3.3",
+    "moment": "^2.29.4",
+    "mongoose": "^8.3.4",
+    "node-schedule": "^2.1.1",
+    "path": "^0.12.7",
+    "playwright": "^1.40.1",
+    "selenium-webdriver": "^4.16.0",
+    "yargs": "^17.7.2"
+  }
+}
